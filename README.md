@@ -1,4 +1,4 @@
-### Hi, I'm Nhan Nguyen
+## Hi, I'm Nhan Nguyen
 
 <p>About me: <a href="https://nhannc.site/" target="_blank">Nhan Nguyen</a></p>
 
