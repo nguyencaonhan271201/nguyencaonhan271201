@@ -1,6 +1,6 @@
 ## Hi, I'm Nhan Nguyen
 
-<p>About me: <a href="https://nhannc.site/" target="_blank">Nhan Nguyen</a></p>
+<p>About me: <a href="https://nhannc.com/" target="_blank">Nhan Nguyen</a></p>
 
 ![](https://komarev.com/ghpvc/?username=nguyencaonhan271201&color=brightgreen)
 
