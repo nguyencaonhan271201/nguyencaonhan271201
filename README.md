@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.nhannc.com/">Nhan Nguyen</a></h1>
+<h1 align="center">Hi 😄, I'm <a href="https://www.nhannc.com/">Nhan Nguyen</a></h1>
 <h3 align="center">Software Engineering Graduate from Auckland University of Technology - Off-shore program</h3>
 
 <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=nguyencaonhan271201&style=for-the-badge&abbreviated=true&color=brightgreen" alt="nguyencaonhan271201" /> </p>
