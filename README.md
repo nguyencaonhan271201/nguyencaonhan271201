@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning **AWS CDK, Terraform, Docker, Kubernetes, etc.**
 - 👨‍💻 All of my projects are available at [https://www.nhannc.com/projects](https://nhannc.com/projects)
-- 📫 How to reach me **nguyencaonhan2712@gmail.com** or [https://nhannc.com/contact](https://nhannc.com/contact)
-- 📄 Know about my experiences [https://www.nhannc.com/about](https://nhannc.com/about)
+- 📫 Reach me through **nguyencaonhan2712@gmail.com** or at [https://nhannc.com/contact](https://nhannc.com/contact)
+- 📄 Know about my experiences at [https://www.nhannc.com/about](https://nhannc.com/about)
 
 ### Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ncnhan271201) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nhannguyen2712) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@nguyencaonhan271201)  
