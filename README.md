@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS CDK, Terraform, Docker, Kubernetes, etc.**
 - 👨‍💻 All of my projects are available at [https://www.nhannc.com/projects](https://nhannc.com/projects)
-- 📫 Reach me through **nguyencaonhan2712@gmail.com** or at [https://nhannc.com/contact](https://nhannc.com/contact)
+- 📫 Reach me through **nguyencaonhan2712@gmail.com** or at [https://www.nhannc.com/contact](https://www.nhannc.com/contact)
 - 📄 Know about my experiences at [https://www.nhannc.com/about](https://nhannc.com/about)
 
 ### Connect with me:
