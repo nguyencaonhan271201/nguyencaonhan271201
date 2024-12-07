@@ -3,7 +3,7 @@
 
 <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=nguyencaonhan271201&style=for-the-badge&abbreviated=true&color=brightgreen" alt="nguyencaonhan271201" /> </p>
 
-- 🎓 I graduated with a **Bachelor's degree in Computer and Information Sciences** from Auckland University of Technology - Off-shore program
+- 🎓 I graduated with a [**Bachelor's degree in Computer and Information Sciences**](https://www.myequals.net/sharelink/a0157a8d-ddd9-45a5-9c81-09dc737d950d/dea17903-aa0c-468e-abf0-b31b8d978e40) from Auckland University of Technology - Off-shore program
 - 🌱 I’m currently studying in preparation for the **AWS Certified Solutions Architect – Associate (SAA-C03)** exam
 - 👨‍💻 All of my projects are available at [https://www.nhannc.com/projects](https://nhannc.com/projects)
 - 📫 Reach me through **nguyencaonhan2712@gmail.com** or at [https://www.nhannc.com/contact](https://www.nhannc.com/contact)
