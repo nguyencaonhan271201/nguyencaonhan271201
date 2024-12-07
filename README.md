@@ -4,10 +4,10 @@
 <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=nguyencaonhan271201&style=for-the-badge&abbreviated=true&color=brightgreen" alt="nguyencaonhan271201" /> </p>
 
 - 🎓 I graduated with a **Bachelor's degree in Computer and Information Sciences** from Auckland University of Technology - Off-shore program
-- 🌱 I’m currently learning **AWS CDK, Terraform, Docker, Kubernetes, etc.**
+- 🌱 I’m currently studying in preparation for the **AWS Certified Solutions Architect – Associate (SAA-C03)** exam
 - 👨‍💻 All of my projects are available at [https://www.nhannc.com/projects](https://nhannc.com/projects)
 - 📫 Reach me through **nguyencaonhan2712@gmail.com** or at [https://www.nhannc.com/contact](https://www.nhannc.com/contact)
-- 📄 Know about my experiences at [https://www.nhannc.com/about](https://nhannc.com/about)
+- 📄 Know about my experiences at [https://www.nhannc.com/about](https://nhannc.com/about) - or [my CV](https://nhannc.com/static/media/CV%20-%20Nguyen%20Cao%20Nhan.5ad77e98.pdf)
 
 ### Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ncnhan271201) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nhannguyen2712) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@nguyencaonhan271201)  
@@ -30,7 +30,7 @@
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ##### DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![CircleCI](https://img.shields.io/badge/CIRCLECI-02303A.svg?style=for-the-badge&logo=circleci&logoColor=white&color=%23343434) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![CircleCI](https://img.shields.io/badge/CIRCLECI-02303A.svg?style=for-the-badge&logo=circleci&logoColor=white&color=%23343434) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) 
 
 ##### Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
