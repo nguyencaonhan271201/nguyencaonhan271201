@@ -7,7 +7,7 @@
 - 🌱 I’m currently studying in preparation for the **AWS Certified Solutions Architect – Associate (SAA-C03)** exam
 - 👨‍💻 All of my projects are available at [https://www.nhannc.com/projects](https://nhannc.com/projects)
 - 📫 Reach me through **nguyencaonhan2712@gmail.com** or at [https://www.nhannc.com/contact](https://www.nhannc.com/contact)
-- 📄 Know about my experiences at [https://www.nhannc.com/about](https://nhannc.com/about) - or [my CV](https://nhannc.com/static/media/CV%20-%20Nguyen%20Cao%20Nhan.5ad77e98.pdf)
+- 📄 Know about my experiences at [https://www.nhannc.com/about](https://nhannc.com/about)
 
 ### Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ncnhan271201) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nhannguyen2712) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@nguyencaonhan271201)  
